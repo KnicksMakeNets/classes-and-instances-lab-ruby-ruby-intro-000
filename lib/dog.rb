@@ -1,5 +1,5 @@
 class Dog
-
+    dog = "red"
 end
 
 fido = dog.new
